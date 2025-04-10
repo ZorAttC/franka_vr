@@ -1,6 +1,6 @@
 
 
-# VR Teleoperation of Franka Arm with ROS 2, MoveIt Servo, and Oculus Reader
+# VR Teleoperation of Franka FR3 with ROS 2, MoveIt Servo, and Oculus Reader
 
 This project demonstrates VR-based teleoperation of a Franka FR3 controlled with a Meta Quest controller using ROS 2, MoveIt Servo, and Oculus Reader.
 
