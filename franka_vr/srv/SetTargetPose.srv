@@ -1,0 +1,4 @@
+geometry_msgs/Pose target_pose  # 目标位姿
+---
+bool success
+string message
